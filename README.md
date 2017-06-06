@@ -1,2 +1,15 @@
-# BLOG-FREDAYSQUARE
-Es un proyecto tipo Blog para hacer la organización más cercana y conseguir el feedback de la comunidad.
+# BLOG FREDAYSQUARE
+
+    [Descripcion del proyecto]
+
+    [Instalacion]
+    - Requisitos
+    - Encargados del proyecto
+
+    [Uso]
+
+    [Documentacion]
+
+    [Routemap]
+
+    [Licencia]
