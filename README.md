@@ -1,15 +1,16 @@
 # BLOG FREDAYSQUARE
 
-    [Descripcion del proyecto]
+### Descripcion del proyecto
 
-    [Instalacion]
-    - Requisitos
-    - Encargados del proyecto
+### Instalacion:
+    * Requisitos
+    * Encargados del proyecto
 
-    [Uso]
 
-    [Documentacion]
+### Uso
 
-    [Routemap]
+### Documentacion
 
-    [Licencia]
+### Routemap
+
+### Licencia
